@@ -11,10 +11,6 @@ public class TestSpringApplication {
 		SpringApplication.run(TestSpringApplication.class, args);
 		System.out.println("SPRING BOOT APPLICATION IS STARTED");
 		System.out.println("Did the changes");
-
-
-
-
 	}
 
 }
